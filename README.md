@@ -1,9 +1,9 @@
-# tsv4tsv2kafka
-Placement et gestion de fichier tsv directement exploitables par le service tsv2kafka (anciennement bacon2kafka)
+# tsv4tsv2kafka (à renommer)
+Placement et gestion de fichier tsv directement exploitables par le service kbart2Kafka
 
 ## Documentation d'utilisation du dépôt
 
-Ce document explique étape par étape comment modifier des fichiers tsv pour une prise en charge par le service tsv2kafka (anciennement bacon2kafka)
+Ce document explique étape par étape comment modifier des fichiers tsv pour une prise en charge par le service kbart2Kafka
 
 ## Sommaire
 - [Utilisation de GitHub](#1)
